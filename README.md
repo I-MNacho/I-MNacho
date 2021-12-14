@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ignaciomares/ "Linkedin")
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a gamer at heart and always will be! 🎮
+
+
+## &#x1f4c8; GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=I-MNacho&&show_icons=true&theme=algolia" height="200">
