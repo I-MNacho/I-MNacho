@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=I-MNacho&&show_icons=true&theme=algolia" height="200">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=I-MNacho&&show_icons=true&theme=algolia" width="300">
