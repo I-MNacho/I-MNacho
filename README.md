@@ -1,8 +1,4 @@
-##Video
-
-Drag and Drop videos:
-
-https://user-images.githubusercontent.com/86627420/146081901-9618e19e-5bcf-4e82-b0fa-51958cc88d3d.mp4
+![ezgif com-gif-maker copy](https://user-images.githubusercontent.com/86627420/146082508-f859a5c0-b4da-433e-a6a6-6f02251b3c7b.gif)
 
 
 
